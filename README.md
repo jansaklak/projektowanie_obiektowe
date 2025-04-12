@@ -1,5 +1,4 @@
-# ebiznes
-
+# Projektowanie obiektowe
 **Zadanie 1** Paradygmaty
 
 Proszę napisać program w Pascalu, który zawiera dwie procedury, jedna
