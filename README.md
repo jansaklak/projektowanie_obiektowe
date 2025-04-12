@@ -11,3 +11,19 @@ liczbę za pomocą sortowania bąbelkowego.
 :white_check_mark: 3.5 Procedura do sortowania liczb
 
 (https://github.com/jansaklak/projektowanie_obiektowe/tree/main/Zadanie1)
+
+
+**Zadanie 4** Wzorce strukturalne
+
+Echo (Go)
+Należy stworzyć aplikację w Go na frameworku echo. Aplikacja ma mieć
+jeden endpoint, minimum jedną funkcję proxy, która pobiera dane np. o
+pogodzie, giełdzie, etc. (do wyboru) z zewnętrznego API. Zapytania do
+endpointu można wysyłać w jako GET lub POST.
+
+:white_check_mark: 3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie
+miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie
+(lub akcjach giełdowych)
+
+https://github.com/user-attachments/assets/322ef055-b86f-47e9-80bf-13836fa2eaa0
+
