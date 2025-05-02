@@ -19,6 +19,27 @@ liczbę za pomocą sortowania bąbelkowego.
 
 https://github.com/user-attachments/assets/51ca1ca0-3779-4e8c-a00e-8bffe6498512
 
+**Zadanie 3** Wzorce kreacyjne
+
+:white_check_mark: 3.0 Należy stworzyć jeden kontroler wraz z danymi wyświetlanymi z
+listy na endpoint’cie w formacie JSON - Kotlin + Spring Boot
+
+:white_check_mark: 3.5 Należy stworzyć klasę do autoryzacji (mock) jako Singleton w
+formie eager
+
+:white_check_mark: 4.0 Należy obsłużyć dane autoryzacji przekazywane przez użytkownika
+
+:white_check_mark: 4.5 Należy wstrzyknąć singleton do głównej klasy via @Autowired
+
+:white_check_mark: 5.0 Obok wersji Eager do wyboru powinna być wersja Singletona w wersji
+lazy
+
+
+
+https://github.com/user-attachments/assets/2d503c17-3921-435b-9291-88da9588807a
+
+
+
 **Zadanie 4** Wzorce strukturalne
 
 Echo (Go)
