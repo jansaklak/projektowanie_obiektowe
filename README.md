@@ -68,4 +68,26 @@ pomocą React hooks
 
 https://github.com/user-attachments/assets/3bc3318f-ab35-4cf4-a0e9-b39fd7076098
 
+**Zadanie 6** Zapaszki Sonar JS
+
+:white_check_mark: 3.0 Należy dodać eslint w hookach gita
+
+:white_check_mark: 3.5 Należy wyeliminować wszystkie bugi w kodzie w Sonarze (kod
+aplikacji klienckiej)
+
+[![Bugs](https://sonarcloud.io/api/project_badges/measure?project=jansaklak_ebiznes&metric=bugs)](https://sonarcloud.io/summary/new_code?id=jansaklak_ebiznes)
+
+:white_check_mark: 4.0 Należy wyeliminować wszystkie zapaszki w kodzie w Sonarze (kod
+aplikacji klienckiej)
+
+[![Code Smells](https://sonarcloud.io/api/project_badges/measure?project=jansaklak_ebiznes&metric=code_smells)](https://sonarcloud.io/summary/new_code?id=jansaklak_ebiznes)
+
+:white_check_mark: 4.5 Należy wyeliminować wszystkie podatności oraz błędy bezpieczeństwa
+w kodzie w Sonarze (kod aplikacji klienckiej)
+
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=jansaklak_ebiznes&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=jansaklak_ebiznes)
+
+:white_check_mark: 5.0 Zredukować duplikaty kodu do 0%
+
+[![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=jansaklak_ebiznes&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=jansaklak_ebiznes)
 
