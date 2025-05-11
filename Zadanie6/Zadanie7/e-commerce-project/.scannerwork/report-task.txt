@@ -1,0 +1,7 @@
+organization=jansaklak
+projectKey=jansaklak_ebiznes
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.63177
+dashboardUrl=https://sonarcloud.io/dashboard?id=jansaklak_ebiznes
+ceTaskId=AZa-9eDh9e7QDePLWQZq
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZa-9eDh9e7QDePLWQZq
