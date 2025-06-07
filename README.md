@@ -97,3 +97,6 @@ w kodzie w Sonarze (kod aplikacji klienckiej)
 :white_check_mark: 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 100
 asercji
 
+:white_check_mark: 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego
+projektu z minimum 100 asercjami
+
