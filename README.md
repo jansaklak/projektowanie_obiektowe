@@ -91,3 +91,9 @@ w kodzie w Sonarze (kod aplikacji klienckiej)
 
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=jansaklak_ebiznes&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=jansaklak_ebiznes)
 
+
+**Zadanie 8** Testy
+
+:white_check_mark: 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 100
+asercji
+
