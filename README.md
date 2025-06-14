@@ -91,6 +91,15 @@ w kodzie w Sonarze (kod aplikacji klienckiej)
 
 [![Duplicated Lines (%)](https://sonarcloud.io/api/project_badges/measure?project=jansaklak_ebiznes&metric=duplicated_lines_density)](https://sonarcloud.io/summary/new_code?id=jansaklak_ebiznes)
 
+**Zadanie 7** Vapor
+
+:white_check_mark: 3.0 Należy stworzyć kontroler wraz z modele Produktów zgodny z CRUD w
+ORM Fluent
+
+:white_check_mark: 3.5 Należy stworzyć szablony w Leaf
+
+:white_check_mark: 4.0 Należy stworzyć drugi model oraz kontroler Kategorii wraz z
+relacją
 
 **Zadanie 8** Testy
 
