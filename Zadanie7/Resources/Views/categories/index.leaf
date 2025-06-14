@@ -1,0 +1,30 @@
+#extend("index"):
+    #export("content"):
+        <div>
+            <h2 class="text-xl font-semibold mb-4">Categories</h2>
+            <a href="/categories/create" class="bg-blue-500 text-white px-4 py-2 rounded hover:bg-blue-600 mb-4 inline-block">Create Category</a>
+            <table class="w-full border">
+                <thead>
+                    <tr class="bg-gray-200">
+                        <th class="border px-4 py-2">Name</th>
+                        <th class="border px-4 py-2">Actions</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    #for(category in categories):
+                        <tr>
+                            <td class="border px-4 py-2">#(category.name)</td>
+                            <td class="border px-4 py-2">
+                                <a href="/categories/#(category.id)" class="text-blue-500 hover:underline">View</a>
+                                <a href="/categories/#(category.id)/edit" class="text-yellow-500 hover:underline">Edit</a>
+                                <form action="/categories/#(category.id)/delete" method="POST" class="inline">
+                                    <button type="submit" class="text-red-500 hover:underline">Delete</button>
+                                </form>
+                            </td>
+                        </tr>
+                    #endfor
+                </tbody>
+            </table>
+        </div>
+    #endexport
+#endextend

@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vapor CRUD App</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+<body class="p-8">
+    <nav class="mb-4">
+        <a href="/products" class="mr-4 text-blue-600 hover:underline">Products</a>
+        <a href="/categories" class="text-blue-600 hover:underline">Categories</a>
+    </nav>
+
+    #import("content")
+</body>
+</html>

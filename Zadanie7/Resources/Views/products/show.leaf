@@ -1,0 +1,10 @@
+#extend("index"):
+    #export("content"):
+        <div>
+            <h2 class="text-xl font-semibold mb-4">#(product.name)</h2>
+            <p><strong>Price:</strong> $#(product.price)</p>
+            <p><strong>Category:</strong> #(product.category.name)</p>
+            <a href="/products" class="text-blue-500 hover:underline mt-4 inline-block">Back to Products</a>
+        </div>
+    #endexport
+#endextend
