@@ -101,6 +101,10 @@ ORM Fluent
 :white_check_mark: 4.0 Należy stworzyć drugi model oraz kontroler Kategorii wraz z
 relacją
 
+
+https://github.com/user-attachments/assets/89f3b44f-0907-4ddf-b35c-c649fbf5ef78
+
+
 **Zadanie 8** Testy
 
 :white_check_mark: 3.5 Należy rozszerzyć testy funkcjonalne, aby zawierały minimum 100
