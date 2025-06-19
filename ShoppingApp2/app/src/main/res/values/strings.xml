@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Shopping App</string>
+    <string name="categories">Kategorie</string>
+    <string name="products">Produkty</string>
+    <string name="cart">Koszyk</string>
+    <string name="add_to_cart">Dodaj do koszyka</string>
+    <string name="total">Suma</string>
+    <string name="quantity">Ilość</string>
+    <string name="remove">Usuń</string>
+    <string name="price_format">%.2f zł</string>
+</resources>
