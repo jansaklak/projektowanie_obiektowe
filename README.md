@@ -113,3 +113,17 @@ asercji
 :white_check_mark: 4.0 Należy stworzyć testy jednostkowe do wybranego wcześniejszego
 projektu z minimum 100 asercjami
 
+**Zadanie 9** Mobile first
+
+✅: 3.5 3.0 stworzyć listę kategorii oraz produktów
+
+:white_check_mark: 3.5 dodać widok koszyka
+
+:white_check_mark: 4.0 stworzyć bazę w Realmie
+
+
+
+https://github.com/user-attachments/assets/73fe1bc2-6bd7-4847-a153-4a05c9796db6
+
+
+
